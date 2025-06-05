@@ -1,14 +1,21 @@
-This is an introductory course on database technology. The purpose of this course is to provide hands-on experience in database management and design. Topics will include database concepts, data modeling, relational database development, SQL, the application of popular database systems software, some additional topics on more advanced database technology and data warehouses. After taking this class, students should have a grasp on the following major subjects in database management:
+Today, businesses, consumers, and society generate massive amounts of data through everyday activities. Leading companies across industries are using data analytics to replace guesswork with evidence-based decision-making. Managers are now analyzing large datasets to uncover patterns, gain insights, and even run experiments to test new ideas.
 
-* Conceptual modeling (Entity-Relationship model)
-* Logical modeling (Relational database model)
-* SQL
-* Data warehousing
+This course prepares students understand the role of business analytics and prepares them to become future leaders in data-driven organizations. You’ll learn how to turn raw data into useful insights to support smarter business decisions.
+
+We’ll cover essential methods and tools used in analytics, discuss common challenges, and apply techniques to real-world business problems. Through hands-on practice and real examples, you'll gain the skills to apply business analytics correctly and avoid common mistakes—so you can make better, more informed decisions.
+
 
 ## Learning Objectives
-* Analyze the impact of data management on sustainability.
-* Design database systems that incorporate sustainability principles addressing environmental, social, and economic challenges.
-* Collaborate on interdisciplinary projects that synthesize database management with sustainable development.
+By the end of the course, students will be able to:
+
+1. **Apply data analytics to real-world business problems**
+   Understand when and how data and analytics can improve business performance, and evaluate the potential impact of data-driven decisions.
+
+2. **Design and interpret business analytics solutions**
+   Develop analytical ideas, build and interpret appropriate models, analyze data using software tools, and generate actionable business insights.
+
+3. **Use R for data analysis**
+   Gain practical experience and confidence in using R for business analytics tasks, including data wrangling, modeling, and visualization.
 
 ## Class Information
 * Instructor: Zhaohu (Jonathan) Fan, Ph.D.
@@ -20,35 +27,7 @@ This is an introductory course on database technology. The purpose of this cours
 - Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 - Textbook is optional.
 
-<!---https://www.prospectpressvt.com/textbooks/jukic-database-systems-introduction-to-databases-and-data-warehouses-2-0--->
 
-
- * **Cohort from 2024 Fall**
+ * **Cohort from 2025 Fall**
     * Course Project
     * Selected Projects
-
-  
-<!---Students will be first grounded in the core of the Python computer programming language. Later in the semester, the course will turn to apply Python to important tasks routinely included in data science workflows, such as tasks relating to data wrangling (processing and transforming data in order to derive an informative and manageable data set).--->
-
-<!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
-
-<!--- ''Life is short (You need Python).'' ---Bruce Eckel"--->
-<!---While covering core concepts like univariate and multivariate forecasting/evaluation of forecasts is critical, I believe we should also cover topics like approaching a forecasting a problem, wrangling with time series data/objects, advanced topics like neural networks for time series, hierarchical data, and practical issues when approaching a problem and implementing a solution.--->
-
-
-<!---This is a course in the analysis of time series data with emphasis on the appropriate choice of models for estimation, testing, and forecasting. Topics or methodologies covered include Univariate Box-Jenkins for fitting and forecasting time series; ARIMA models, stationarity and nonstationarity; diagnosing time series models; transformations; forecasting: point and interval forecasts; seasonal time series models; modeling volatility with ARCH, GARCH; modeling time series with trends; and other methods. --->
-
-
-
-<!---Many materials are from [Dr. Yan Yu](https://business.uc.edu/faculty-and-research/departments/obais/faculty/yan-yu.html)’s class notes. --->
-<!---Thanks for the contribution from previous Ph.D. students. --->
-<!---http://jeffgoldsmith.com/IWAFDA/shortcourse_fosr.html --->
- 
-<!---Framework for approaching forecasting projects --->
-<!---Understanding of traditional and modern approaches to forecasting --->
-<!---Exposure to common challenges and how to overcome --->
-<!---https://github.com/zzz1990771/data_exp_python/blob/main/index.md?plain=1--->
-
-
-
-
