@@ -1,5 +1,10 @@
 title: "Welcome to Business Analytics (MGT 4050)!"
-theme: jekyll-theme-cayman
-description: "By Zhaohu (Jonathan) Fan <br /> ''Where Business Meets Data—and Decisions Get Smarter.''" 
+
+theme: jekyll-theme-minimal
+
+description:  > 
+"By Zhaohu (Jonathan) Fan <br /> ''Where Business Meets Data—and Decisions Get Smarter.''" 
+
+show_downloads: false
 github:
   is_project_page: false
